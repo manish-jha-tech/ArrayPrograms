@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 /*
  * https://www.youtube.com/watch?v=8RErc0VXAo8
- * Right rotational
  */
 
 public class Lab28ArrayRotationProgram {
